@@ -6,9 +6,8 @@
   </style>
   <h1>
     Windows PC $${\color{Aquamarine}{Toolkit}}$$
-    <br>
-    ★ Coming Soon! ★
   </h1>
+  <h1>★ Coming Soon! ★</h1>
   <br>
   <p>
     Hardware, networking, and software tools, modifications, and plugins for an enhanced Windows experience for gamers.
