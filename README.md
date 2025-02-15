@@ -3,7 +3,6 @@
   Windows PC $${\color{Aquamarine}{Toolkit}}$$
   <br>
 </h1>
-<br>
 <h2 align="center" style="font-size: 150%;">
   ★ Coming Soon! ★
 </h2>
