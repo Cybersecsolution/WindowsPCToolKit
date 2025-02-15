@@ -1,8 +1,13 @@
 <div align="center">
+  <style>
+    h1 {
+      font-size: 150%; /* increases h1 font size by 50% */
+    }
+  </style>
   <h1>
     Windows PC $${\color{Aquamarine}{Toolkit}}$$
   </h1>
-  <p style="margin-bottom: 2em; font-size: 1.5em;">★ Coming Soon! ★</p>
+  <h1>★ Coming Soon! ★</h1>
   <br>
   <p>
     Hardware, networking, and software tools, modifications, and plugins for an enhanced Windows experience for gamers.
