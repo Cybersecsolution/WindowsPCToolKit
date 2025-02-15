@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin-bottom: 2em;">Coming Soon!</h1>
+  <h1 style="margin-bottom: 2em;">⭐ Coming Soon! ⭐</h1>
   
   <h1>
     Windows PC $${\color{Aquamarine}{Toolkit}}$$
