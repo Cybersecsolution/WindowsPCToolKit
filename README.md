@@ -56,117 +56,72 @@ After installing all dependencies, run the main script:
 
 ---
 
-🎉 **You're all set!** Enjoy using your toolkit to enhance your Windows experience.
-
 <hr>
 
 ---
+
 ## 📌 Frequently Asked Questions (FAQ)
 
-### 💻 General Questions
 <details>
-  <summary><strong>1. What is this toolkit used for?</strong></summary>
-  This toolkit is a **comprehensive solution** for **PC maintenance, troubleshooting, and optimization**. It includes tools for:
-  - **Hardware diagnostics** (e.g., disk health, USB troubleshooting)
-  - **Network optimization** (e.g., DNS benchmarking, clearing cache, resetting connections)
-  - **Software repair** (e.g., fixing common system errors)
-  - **Security enhancements** (e.g., malware scanning, log analysis)
+  <summary>💻 General Questions</summary>
+
+  **Q1: What is this toolkit used for?**  
+  A1: This toolkit is designed for PC maintenance, troubleshooting, and optimization. It includes features for hardware diagnostics, network troubleshooting, software repair, system security, and more.
+
+  **Q2: Do I need administrator privileges to run this script?**  
+  A2: Yes, the script automatically checks for administrator rights. If it is not run with elevated privileges, it will relaunch itself using PowerShell with elevation.
+
+  **Q3: Does this script work on all versions of Windows?**  
+  A3: The toolkit is designed for Windows 10 and Windows 11. Some features may not work on older versions.
+
 </details>
 
 <details>
-  <summary><strong>2. Do I need administrator privileges to run this script?</strong></summary>
-  Yes. The script **automatically detects if it’s running with admin rights**. If not, it will relaunch itself with **elevated permissions** in PowerShell.
+  <summary>🛠 Hardware Troubleshooting</summary>
+
+  **Q4: How does the Hard Drive Health Check work?**  
+  A4: It uses Windows Management Instrumentation (WMI) to check the status of connected disk drives and reports whether they are in good condition.
+
+  **Q5: Can the USB Device Troubleshooting tool fix all USB issues?**  
+  A5: It helps identify and resolve common USB problems, such as driver issues and connectivity problems. However, if a USB device is physically damaged, this tool will not fix it.
+
 </details>
 
 <details>
-  <summary><strong>3. What Windows versions does this support?</strong></summary>
-  The toolkit is **fully compatible** with **Windows 10 and Windows 11**. Some features may not function properly on older versions like Windows 7 or 8.
-</details>
+  <summary>🌐 Network Troubleshooting & Optimization</summary>
 
----
+  **Q6: What does the "Clear DNS Cache" feature do?**  
+  A6: It flushes the DNS cache to remove outdated domain name resolution data, which can help resolve connectivity issues.
 
-### 🛠 Hardware Troubleshooting
-<details>
-  <summary><strong>4. How does the Hard Drive Health Check work?</strong></summary>
-  The script uses **Windows Management Instrumentation (WMI)** to analyze disk health and status. It reports if any issues are detected, such as **bad sectors or potential failures**.
-</details>
+  **Q7: How does the "Reset Network" feature work?**  
+  A7: It resets the Winsock catalog and the TCP/IP stack, which can resolve many internet and connectivity problems.
 
-<details>
-  <summary><strong>5. Can the USB Device Troubleshooting tool fix all USB issues?</strong></summary>
-  This tool can **diagnose and resolve software-related USB issues**, such as:
-  - **Driver conflicts**
-  - **Power management issues**
-  - **Device detection errors**
-  
-  However, **physical damage to USB ports or devices cannot be fixed** with software.
-</details>
+  **Q8: How does the DNS Benchmark tool help me?**  
+  A8: The tool tests multiple DNS servers (e.g., Google, Cloudflare, NextDNS) and recommends the fastest DNS for your internet connection.
 
----
-
-### 🌐 Network Troubleshooting & Optimization
-<details>
-  <summary><strong>6. What does the "Clear DNS Cache" feature do?</strong></summary>
-  It **flushes outdated DNS records** stored on your system, which can:
-  - Speed up domain name resolution  
-  - Fix connectivity issues caused by **stale DNS entries**
-  - Improve overall browsing performance
 </details>
 
 <details>
-  <summary><strong>7. How does the "Reset Network" feature work?</strong></summary>
-  This option **resets the Winsock catalog and TCP/IP stack**, which can resolve:
-  - Persistent **internet connectivity issues**
-  - **Unresponsive network adapters**
-  - Problems caused by **corrupt network configurations**
+  <summary>🔒 Security & Maintenance</summary>
+
+  **Q9: Can this script scan for malware?**  
+  A9: Yes, it offers options for quick/full virus scans and links to online scanning tools like VirusTotal.
+
+  **Q10: What does "Check System Logs for Past Events" do?**  
+  A10: It retrieves recent system logs to help diagnose issues.
+
 </details>
 
 <details>
-  <summary><strong>8. How does the DNS Benchmark tool help?</strong></summary>
-  The DNS Benchmark tool **tests multiple DNS providers** (e.g., **Google, Cloudflare, NextDNS**) and determines:
-  - **Which DNS server is the fastest** for your location  
-  - **Which provides better reliability and security**  
-  - If your **current DNS settings need improvement**  
-</details>
+  <summary>📞 Contact & Support</summary>
 
----
+  **Need help or have a question?** You can reach out through:
 
-### 🔒 Security & Maintenance
-<details>
-  <summary><strong>9. Can this script scan for malware?</strong></summary>
-  Yes. The toolkit includes **quick and full system virus scans** and also integrates with:
-  - **Windows Defender** (built-in)
-  - **VirusTotal** (for online file scanning)
-</details>
-
-<details>
-  <summary><strong>10. What does "Check System Logs for Past Events" do?</strong></summary>
-  This feature retrieves and analyzes **recent system logs** to help:
-  - Identify **crashes and error events**
-  - Troubleshoot **performance slowdowns**
-  - Detect **security-related warnings**
-</details>
-
----
-
-### 📞 Contact & Support
-<details>
-  <summary><strong>11. Where can I get support or report an issue?</strong></summary>
-  If you need help, have feedback, or found a bug, you can reach us through:
-  
   - 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
   - 🛠 **GitHub Issues**: [Submit a bug report](https://github.com/your-repo)  
-  - 💬 **Join our Discord community for real-time support**:  
-    [![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/btPcajnDs5)  
-</details>
-
----
-
-### 🚀 **Need More Help?**
-If your question isn’t listed here, feel free to **reach out via Discord** or **open a support request** on GitHub!  
-
----
+  - 💬 **Join our Discord for real-time support:**  
+    [![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/btPcajnDs5)
 
 </details>
 
 ---
-
