@@ -81,60 +81,57 @@ A16: It deletes history, cookies, and temporary internet files for supported bro
 <b>Q17: What happens when I create a new System Restore Point?</b><br>
 A17: It creates a backup snapshot of your system's current state, allowing you to restore your PC in case of future issues.<br><br>
 
-<b>Q18: What does the "Disk Cleanup" feature do?</b><br>
-A18: It runs Windows' built-in clean-up tool to remove unnecessary files, freeing up disk space.<br><br>
-
-<b>Q19: Can I manually export my system information?</b><br>
-A19: Yes, the "System Information Export" feature generates a detailed report about your hardware, software, and network settings.<br><br>
-
-<b>Q20: What does the "File Integrity Checker" do?</b><br>
-A20: It computes SHA-256 hashes of files to verify data integrity.<br><br>
-
 <hr>
 
 <h3>🔹 Account Management & Security</h3>
 
-<b>Q21: Can I create, edit, or delete user accounts with this script?</b><br>
-A21: Yes, the "Manage Local Windows Account" feature allows you to create new accounts, change passwords, and manage admin privileges.<br><br>
+<b>Q18: Can I create, edit, or delete user accounts with this script?</b><br>
+A18: Yes, the "Manage Local Windows Account" feature allows you to create new accounts, change passwords, and manage admin privileges.<br><br>
 
-<b>Q22: Does the script offer parental controls?</b><br>
-A22: Yes, you can set login restrictions and block specific websites for certain users.<br><br>
+<b>Q19: Does the script offer parental controls?</b><br>
+A19: Yes, you can set login restrictions and block specific websites for certain users.<br><br>
 
 <hr>
 
 <h3>🔹 Backup & Restore</h3>
 
-<b>Q23: How does the "Backup & Restore System" feature work?</b><br>
-A23: It launches Windows' built-in backup and restore tools for creating system backups.<br><br>
+<b>Q20: How does the "Backup & Restore System" feature work?</b><br>
+A20: It launches Windows' built-in backup and restore tools for creating system backups.<br><br>
 
 <hr>
 
 <h3>🔹 Malware & Security</h3>
 
-<b>Q24: Can this script scan for malware?</b><br>
-A24: Yes, it offers options for quick/full virus scans and links to online scanning tools like VirusTotal.<br><br>
+<b>Q21: Can this script scan for malware?</b><br>
+A21: Yes, it offers options for quick/full virus scans and links to online scanning tools like VirusTotal.<br><br>
 
-<b>Q25: What does "Check System Logs for Past Events" do?</b><br>
-A25: It retrieves recent system logs to help diagnose issues.<br><br>
+<b>Q22: What does "Check System Logs for Past Events" do?</b><br>
+A22: It retrieves recent system logs to help diagnose issues.<br><br>
 
 <hr>
 
 <h3>🔹 Additional Support</h3>
 
-<b>Q26: What should I do if the toolkit does not resolve my issue?</b><br>
-A26: If a problem persists, consider consulting online forums, checking official Microsoft support, or seeking professional assistance.<br><br>
+<b>Q23: What should I do if the toolkit does not resolve my issue?</b><br>
+A23: If a problem persists, consider consulting online forums, checking official Microsoft support, or seeking professional assistance.<br><br>
 
-<b>Q27: How can I keep my system secure?</b><br>
-A27: Regularly update Windows, use a trusted antivirus, enable firewall protection, and avoid downloading untrusted files.<br><br>
+<b>Q24: How can I keep my system secure?</b><br>
+A24: Regularly update Windows, use a trusted antivirus, enable firewall protection, and avoid downloading untrusted files.<br><br>
 
-<b>Q28: How often should I perform maintenance tasks?</b><br>
-A28: It's recommended to run system maintenance tasks at least once a month to keep your PC in optimal condition.<br><br>
+<b>Q25: How often should I perform maintenance tasks?</b><br>
+A25: It's recommended to run system maintenance tasks at least once a month to keep your PC in optimal condition.<br><br>
+
+<hr>
+
+<h3>🔹 Contact & Support</h3>
+
+<p>
+💬 <b>Need help or have questions?</b> Join our official Discord server for support and discussions! <br>
+👉 <a href="https://discord.gg/btPcajnDs5" target="_blank"><b>Join the Discord Community</b></a>
+</p>
 
 <hr>
 
 <p align="center" style="font-size: 120%;">
   🚀 Stay tuned for updates and additional features! 🚀
 </p>
-
-
-
