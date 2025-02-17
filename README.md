@@ -115,8 +115,8 @@ After installing all dependencies, run the main script:
   **Need help or have a question?** You can reach out through:
 
   - 📧 **Email**: <a href="mailto:bug-report@cybersecurity-solution.net">bug-report@cybersecurity-solution.net</a>
-  - 🛠 **GitHub Issues**: [Submit a bug report]([https://github.com/your-repo](https://github.com/Cybersecsolution/WindowsPCToolKit/issues))  
-  - 💬 **Join our Discord for real-time support:**  
+  - 🛠 **GitHub Issues**: [Submit a bug report](https://github.com/Cybersecsolution/WindowsPCToolKit/issues)  
+  - # 💬 Join Our Discord for Real-Time Support  
     [![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/btPcajnDs5)
 
 </details>
