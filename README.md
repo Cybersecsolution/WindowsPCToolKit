@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 150%;">
   Windows PC $${\color{Aquamarine}{Toolkit}}$$
-</h1>
+</h1> 
 
 <h2 align="center" style="font-size: 150%;">
   ★ Coming Soon! ★
