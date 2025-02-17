@@ -16,45 +16,58 @@
   Hardware, networking, and software tools, modifications, and plugins for an enhanced Windows experience for gamers.
 </p>
 
-## How to Install
 
-### Step 1: Run Install-Dependencies.ps1
-1. Open `Install-Dependencies.ps1`.
-2. Select **Yes** to run the script and check your system.
-3. Ensure you have the required dependencies installed. If not, the script will install the following:
+Here's an improved version with better structure, clarity, and formatting for a seamless installation process:
 
-   - **Python**: Installed  
-   - **pip**: Upgraded  
-   - **psutil** and **colorama**: Installed  
-   - **winget**: Installed  
-   - **Speedtest CLI**: Installed  
-   - **Nmap**: Installed  
-   - **WSL (Windows Subsystem for Linux)**: Installed  
-   - **MTR (WinMTR)**: Installed  
-   - **Paping**: Installed  
-   - **tshark**: Installed  
+---
 
-> ⚠ **Note:** If WSL is not enabled on your system, you will need to enable it in your settings. This step is required for certain tools that rely on the Linux subsystem. If you already have it enabled, you can continue. Otherwise, enable it and re-run `Install-Dependencies.ps1`.
+## 🚀 How to Install
 
-### Step 2: Install Strawberry Perl
+### 🔹 Step 1: Run `Install-Dependencies.ps1`
+1. Open **`Install-Dependencies.ps1`**.
+2. Select **Yes** when prompted to run the script.
+3. The script will check your system for missing dependencies and automatically install them if needed.
+
+   The following components will be installed or updated:
+
+   - ✅ **Python**: Installed  
+   - ✅ **pip**: Upgraded  
+   - ✅ **psutil** and **colorama**: Installed  
+   - ✅ **winget**: Installed  
+   - ✅ **Speedtest CLI**: Installed  
+   - ✅ **Nmap**: Installed  
+   - ✅ **WSL (Windows Subsystem for Linux)**: Installed  
+   - ✅ **MTR (WinMTR)**: Installed  
+   - ✅ **Paping**: Installed  
+   - ✅ **tshark**: Installed  
+
+> ⚠ **Important:** If WSL is not already enabled on your system, you must enable it in Windows settings. This is required for tools that rely on the Linux subsystem. If WSL is enabled, proceed as usual. Otherwise, enable it and re-run `Install-Dependencies.ps1`.
+
+---
+
+### 🔹 Step 2: Install Strawberry Perl
 Download and install [Strawberry Perl](https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54001_64bit_UCRT/strawberry-perl-5.40.0.1-64bit.msi).  
-> ⚠ **Important:** The program will not run without Strawberry Perl.
 
-### Step 3: Run WindowsPCToolKit.pl
-Once dependencies are installed, run the script:
+> ⚠ **Critical Requirement:** The program will **not run** without Strawberry Perl.
 
-- **Option 1:** Double-click `WindowsPCToolKit.pl` to open it.  
-- **Option 2:** Run via **Command Prompt**:
-  ```sh
-  cd path\to\directory
-  perl WindowsPCToolKit.pl
+---
 
+### 🔹 Step 3: Run `WindowsPCToolKit.pl`
+After installing all dependencies, run the main script:
 
+📌 **Option 1:** Double-click `WindowsPCToolKit.pl` to launch it.  
 
+📌 **Option 2:** Run via **Command Prompt**:
+   ```sh
+   cd path\to\directory
+   perl WindowsPCToolKit.pl
+   ```
 
+---
 
+🎉 **You're all set!** Enjoy using your toolkit to enhance your Windows experience.
 
-
+---
 
 
 
