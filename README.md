@@ -60,62 +60,82 @@ After installing all dependencies, run the main script:
 
 <hr>
 
+---
+
 ## 📌 Frequently Asked Questions (FAQ)
 
+### 💻 General Questions
 <details>
-  <summary>💻 General Questions</summary>
-
-  **Q1: What is this toolkit used for?**  
-  A1: This toolkit is designed for PC maintenance, troubleshooting, and optimization. It includes features for hardware diagnostics, network troubleshooting, software repair, system security, and more.
-
-  **Q2: Do I need administrator privileges to run this script?**  
-  A2: Yes, the script automatically checks for administrator rights. If it is not run with elevated privileges, it will relaunch itself using PowerShell with elevation.
-
-  **Q3: Does this script work on all versions of Windows?**  
-  A3: The toolkit is designed for Windows 10 and Windows 11. Some features may not work on older versions.
-
+  <summary><strong>1. What is this toolkit used for?</strong></summary>
+  This toolkit is designed for **PC maintenance, troubleshooting, and optimization**. It includes tools for hardware diagnostics, network troubleshooting, software repair, system security, and overall system performance enhancement.
 </details>
 
 <details>
-  <summary>🛠 Hardware Troubleshooting</summary>
-
-  **Q4: How does the Hard Drive Health Check work?**  
-  A4: It uses Windows Management Instrumentation (WMI) to check the status of connected disk drives and reports whether they are in good condition.
-
-  **Q5: Can the USB Device Troubleshooting tool fix all USB issues?**  
-  A5: It helps identify and resolve common USB problems, such as driver issues and connectivity problems. However, if a USB device is physically damaged, this tool will not fix it.
-
+  <summary><strong>2. Do I need administrator privileges to run this script?</strong></summary>
+  Yes. The script **automatically checks for admin rights** and, if necessary, relaunches itself using PowerShell with elevated privileges.
 </details>
 
 <details>
-  <summary>🌐 Network Troubleshooting & Optimization</summary>
+  <summary><strong>3. Does this toolkit work on all versions of Windows?</strong></summary>
+  The toolkit is optimized for **Windows 10 and Windows 11**. Some features **may not work** on older Windows versions.
+</details>
 
-  **Q6: What does the "Clear DNS Cache" feature do?**  
-  A6: It flushes the DNS cache to remove outdated domain name resolution data, which can help resolve connectivity issues.
+---
 
-  **Q7: How does the "Reset Network" feature work?**  
-  A7: It resets the Winsock catalog and the TCP/IP stack, which can resolve many internet and connectivity problems.
-
-  **Q8: How does the DNS Benchmark tool help me?**  
-  A8: The tool tests multiple DNS servers (e.g., Google, Cloudflare, NextDNS) and recommends the fastest DNS for your internet connection.
-
+### 🛠 Hardware Troubleshooting
+<details>
+  <summary><strong>4. How does the Hard Drive Health Check work?</strong></summary>
+  It utilizes **Windows Management Instrumentation (WMI)** to analyze connected disk drives and determine their health status. If any issues are detected, you’ll receive a report.
 </details>
 
 <details>
-  <summary>🔒 Security & Maintenance</summary>
+  <summary><strong>5. Can the USB Device Troubleshooting tool fix all USB issues?</strong></summary>
+  This tool helps diagnose and resolve **common USB issues**, such as driver conflicts and connectivity errors. However, it **cannot fix** physically damaged USB devices.
+</details>
 
-  **Q9: Can this script scan for malware?**  
-  A9: Yes, it offers options for quick/full virus scans and links to online scanning tools like VirusTotal.
+---
 
-  **Q10: What does "Check System Logs for Past Events" do?**  
-  A10: It retrieves recent system logs to help diagnose issues.
-
+### 🌐 Network Troubleshooting & Optimization
+<details>
+  <summary><strong>6. What does the "Clear DNS Cache" feature do?</strong></summary>
+  It **flushes outdated DNS records** stored in your system, helping resolve network connectivity problems caused by incorrect domain name resolution.
 </details>
 
 <details>
-  <summary>📞 Contact & Support</summary>
-
-  💬 Need help or have questions? Join our official Discord server for support and discussions!  
-  👉 [**Join the Discord Community**](https://discord.gg/btPcajnDs5)
-
+  <summary><strong>7. How does the "Reset Network" feature work?</strong></summary>
+  This function **resets the Winsock catalog and the TCP/IP stack**, fixing many common internet connection problems and restoring network functionality.
 </details>
+
+<details>
+  <summary><strong>8. How does the DNS Benchmark tool help me?</strong></summary>
+  The **DNS Benchmark tool** tests multiple DNS servers (e.g., **Google, Cloudflare, NextDNS**) and **recommends the fastest and most reliable option** for your connection.
+</details>
+
+---
+
+### 🔒 Security & Maintenance
+<details>
+  <summary><strong>9. Can this script scan for malware?</strong></summary>
+  Yes. The toolkit provides options for **quick and full system virus scans** and integrates with online malware analysis tools like **VirusTotal**.
+</details>
+
+<details>
+  <summary><strong>10. What does "Check System Logs for Past Events" do?</strong></summary>
+  This feature **retrieves and analyzes recent system logs**, helping you diagnose issues related to system performance, crashes, and security events.
+</details>
+
+---
+
+### 📞 Contact & Support
+<details>
+  <summary><strong>11. How can I get support or report an issue?</strong></summary>
+  If you need assistance, have feedback, or encounter any issues, you can reach out through:
+
+  - 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+  - 🛠 **GitHub Issues**: [GitHub Repository](https://github.com/your-repo)
+  - 💬 **Join our Discord Community for Live Support**:  
+    [![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/btPcajnDs5)
+</details>
+
+---
+
