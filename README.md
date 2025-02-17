@@ -54,11 +54,8 @@ After installing all dependencies, run the main script:
    perl WindowsPCToolKit.pl
    ```
 
----
 
 <hr>
-
----
 
 ## 📌 Frequently Asked Questions (FAQ)
 
