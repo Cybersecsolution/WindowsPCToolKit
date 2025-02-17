@@ -12,11 +12,6 @@
 
 
 
-<p align="center">
-  Hardware, networking, and software tools, modifications, and plugins for an enhanced Windows experience for gamers.
-</p>
-
-
 Here's an improved version with better structure, clarity, and formatting for a seamless installation process:
 
 ---
