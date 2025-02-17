@@ -67,10 +67,6 @@ After installing all dependencies, run the main script:
 
 🎉 **You're all set!** Enjoy using your toolkit to enhance your Windows experience.
 
----
-
-
-
 <hr>
 
 ## 📌 Frequently Asked Questions (FAQ)
