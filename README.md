@@ -2,9 +2,7 @@
   Windows PC $${\color{Aquamarine}{Toolkit}}$$
 </h1> 
 
-<h2 align="center" style="font-size: 150%;">
-  
-</h2>
+
 
 
 ![image](https://github.com/user-attachments/assets/7a7e07be-c0e2-4fd7-922f-6e3941c7841a)
