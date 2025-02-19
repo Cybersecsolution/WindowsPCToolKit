@@ -3,7 +3,7 @@
 </h1> 
 
 <h2 align="center" style="font-size: 150%;">
-  ★ Coming Soon! ★
+  
 </h2>
 
 
